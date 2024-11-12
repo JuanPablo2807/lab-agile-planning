@@ -1,23 +1,14 @@
----
-name: User Story
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
-
----
-
-**Como** [rol]  
- **Necesito** [función]  
- **Para que** [beneficio]  
+ **As a** [role]  
+ **I need** [function]  
+ **So that** [benefit]  
    
- ### Detalles y Suposiciones
- * [documenta lo que sabes]
+ ### Details and Assumptions
+ * [document what you know]
    
- ### Criterios de Aceptación  
+ ### Acceptance Criteria  
    
  ```gherkin
- Dado [algún contexto]
- Cuando [se realiza cierta acción]
- Entonces [se observa el resultado de la acción]
+ Given [some context]
+ When [certain action is taken]
+ Then [the outcome of action is observed]
  ```
